@@ -1,10 +1,10 @@
-## Hi， I'm Paradoxiao 👋
+## Hi,I'm Paradoxiao 👋
 
-You ask what is "Paradoxiao"? It is a word including "paradox" and "xiao". The reason I use "paradox" is I extremely love [The Paradox Engine](https://moapyr.fandom.com/wiki/Paradox_Engine) in the Mental Omega ! And the "Xiao" is from a warship named [CN ChiXiao](https://mwstats.info/ships/cn-chixiao-7w1kzoq2) which I do not like because of some reasons.
+You ask what is "Paradoxiao"? It is a word including "paradox" and "xiao". The reason I use "paradox" is I extremely love [The Paradox Engine](https://moapyr.fandom.com/wiki/Paradox_Engine) in the Mental Omega, while the "Xiao" is from a warship named [CN ChiXiao](https://mwstats.info/ships/cn-chixiao-7w1kzoq2) which I do not like because of some reasons. And the word "paradox" in my region mains "悖",which mains oppose sometimes. So I connect them and create my name.
 
-I'm now a college school student .
+I'm now a college school student.
 
-I like to do something interesting about computer . My favorite operator system is Arch Linux . I like to play a lot of games such like [Mental Omega](https://mentalomega.com/) , [Minecraft](minecraft.net) and [Stellaris](https://www.paradoxinteractive.com/games/stellaris) .
+I like to do something interesting about computer. My favorite operator system is Arch Linux. I like to play a lot of games such like [Mental Omega](https://mentalomega.com/) , [Minecraft](minecraft.net) and [Stellaris](https://www.paradoxinteractive.com/games/stellaris) .
 
 #### Platforms & Tools
 
