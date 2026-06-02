@@ -21,7 +21,7 @@ I'm now a college school student.
 [![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 [![](https://img.shields.io/badge/Wine-800000?style=flat-square&logo=wine&logoColor=white)](https://winehq.org)
 
-#### Languages or Learning
+#### Learning languages
 
 [![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://cppreference.com)
 [![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://c-language.org)
