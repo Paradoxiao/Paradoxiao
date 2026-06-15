@@ -1,4 +1,4 @@
-[![灰风老婆](https://raw.githubusercontent.com/Paradoxiao/wallpapers/refs/heads/main/Gray.jpeg)](https://stellaris.paradoxwikis.com/L-Cluster#Gray)
+[![The Gray Waifu](https://raw.githubusercontent.com/Paradoxiao/wallpapers/refs/heads/main/Gray.jpeg)](https://stellaris.paradoxwikis.com/L-Cluster#Gray)
 
 ## Hi,I'm Paradoxiao
 
