@@ -1,4 +1,6 @@
-## Hi,I'm Paradoxiao 👋
+[![灰风老婆](https://raw.githubusercontent.com/Paradoxiao/wallpapers/refs/heads/main/Gray.jpeg)](https://stellaris.paradoxwikis.com/L-Cluster#Gray)
+
+## Hi,I'm Paradoxiao
 
 My name "Paradoxiao" is formed by combining "paradox" and "xiao".
 
@@ -34,5 +36,3 @@ I'm now a college school student.
 #### Stats
 
 [![](https://github-readme-stats-paradoxiao.vercel.app/api/top-langs/?username=Paradoxiao&layout=compact)](https://github.com/Paradoxiao?tab=repositories)
-
-[![灰风老婆](https://raw.githubusercontent.com/Paradoxiao/wallpapers/refs/heads/main/Gray.jpeg)](https://stellaris.paradoxwikis.com/L-Cluster#Gray)
