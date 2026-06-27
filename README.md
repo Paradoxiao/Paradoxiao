@@ -6,7 +6,7 @@ My name "Paradoxiao" is formed by combining "paradox" and "xiao".
 
 I'm now a college student.
 
-#### Platforms & Tools
+## Platforms & Tools
 
 [![Cachy OS](https://img.shields.io/badge/Cachy_OS-00AA88?style=flat-square&logo=cachyos&logoColor=white)](https://cachyos.org)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org)
@@ -23,7 +23,7 @@ I'm now a college student.
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 [![Wine](https://img.shields.io/badge/Wine-800000?style=flat-square&logo=wine&logoColor=white)](https://winehq.org)
 
-#### Learning languages
+## Learning languages
 
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://cppreference.com)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://c-language.org)
@@ -33,6 +33,6 @@ I'm now a college student.
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 
-#### Stats
+## Stats
 
 [![to-languages](https://github-readme-stats-paradoxiao.vercel.app/api/top-langs/?username=Paradoxiao&layout=compact)](https://github.com/Paradoxiao?tab=repositories)
